@@ -30,3 +30,8 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+.DS_Store
+
+# Compiled distribution files
+httpserve/dist/main.wasm
